@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Tue Nov 08 21:31:34 CST 2016
+2.base=C\:\\Users\\liuxinyu\\Desktop\\art13\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\liuxinyu\\Desktop\\art13\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\liuxinyu\\Desktop\\art13\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\liuxinyu\\Desktop\\art13\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\liuxinyu\\Desktop\\art13\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\liuxinyu\\Desktop\\art13\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+7.set=ANDROID_RESOURCE
+count=9
+0.file=C\:\\Users\\liuxinyu\\Desktop\\art13\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+5.base=C\:\\Users\\liuxinyu\\Desktop\\art13\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\liuxinyu\\Desktop\\art13\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main.xml
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\liuxinyu\\Desktop\\art13\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\liuxinyu\\Desktop\\art13\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\crash.xml
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\liuxinyu\\Desktop\\art13\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\liuxinyu\\Desktop\\art13\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\liuxinyu\\Desktop\\art13\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\liuxinyu\\Desktop\\art13\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\liuxinyu\\Desktop\\art13\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\crash.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\liuxinyu\\Desktop\\art13\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\liuxinyu\\Desktop\\art13\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_crash.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

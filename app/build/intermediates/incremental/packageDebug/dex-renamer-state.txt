@@ -1,0 +1,7 @@
+#Tue Nov 08 21:31:40 CST 2016
+base.0=C\:\\Users\\liuxinyu\\Desktop\\art13\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_eb87d1fa57519b71d3324bbad9ca378b047482cf
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\liuxinyu\\Desktop\\art13\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4026b426757767b0a8cf70418ef48da1ef6cc6b3\\classes.dex
+base.1=C\:\\Users\\liuxinyu\\Desktop\\art13\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4026b426757767b0a8cf70418ef48da1ef6cc6b3
+file.0=C\:\\Users\\liuxinyu\\Desktop\\art13\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_eb87d1fa57519b71d3324bbad9ca378b047482cf\\classes.dex

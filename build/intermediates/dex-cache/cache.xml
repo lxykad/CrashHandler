@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\studioSDK\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\liuxinyu\Desktop\art13\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_94ba5b35c0c3e372c6ef459bff9797d43280bab7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\liuxinyu\Desktop\art13\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="626a846cb29a3e63d1dabc7dc5d1916c047d9e9a">
+        <dex dex="C:\Users\liuxinyu\Desktop\art13\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_eb87d1fa57519b71d3324bbad9ca378b047482cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\liuxinyu\Desktop\art13\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="239b86c83c345c55bb3ad8c07f59bb5111ac12b8">
+        <dex dex="C:\Users\liuxinyu\Desktop\art13\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4026b426757767b0a8cf70418ef48da1ef6cc6b3\classes.dex" />
+    </item>
+
+</items>
